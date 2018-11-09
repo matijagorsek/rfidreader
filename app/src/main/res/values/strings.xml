@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Karašica Vučica</string>
+    <string name="add_card">Dodaj novu karticu</string>
+    <string name="serial_port">Serial port</string>
+    <string name="confirm">Potvrdi</string>
+    <string name="status">Status:</string>
+    <string name="status_success">PRIJAVA USPJEŠNA</string>
+    <string name="status_failure">ODJAVA USPJEŠNA</string>
+    <string name="lift_card_message">Molimo prislonite karticu na čitač</string>
+    <string name="add_new_user">Dodavanje novog korisnika, prislonite karticu za korisnika kojeg želite dodati.</string>
+    <string name="code_card">Kod kartice:</string>
+    <string name="name">IME</string>
+    <string name="surname">PREZIME</string>
+    <string name="required">Potrebno upisat</string>
+    <string name="person_have_rights">Osoba ovlaštena za dodavanje nove kartice:</string>
+    <string name="yes">DA</string>
+    <string name="no">NE</string>
+    <string name="choose_absence_reason">Odaberi razlog izlaska</string>
+    <string name="card_number">Broj kartice</string>
+    <string name="user_succesfully_added">Korisnik je uspješno dodan.</string>
+    <string name="auth_admin_failure">Korisnik nema prava za dodavanje novih kartica</string>
+    <string name="person_rights">Osoba ovlaštena za dodavanje nove kartice:</string>
+
+</resources>
